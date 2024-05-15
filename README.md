@@ -47,7 +47,7 @@
       </ul>
     </li>
   </ol>
-<h2>Lincense:</h2>
-<p>This repository is licensed under the **[MIT License]**. Feel free to use, modify, and distribute the code for your learning purposes.</p>
+<h2>License:</h2>
+<p>This repository is licensed under the <b>[MIT License]</b> .Feel free to use, modify, and distribute the code for your learning purposes.</p>
 <p>Happy Coding!</p>
 
