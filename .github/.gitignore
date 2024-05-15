@@ -1,0 +1,8 @@
+# Ignore files in the .devcontainer folder
+.devcontainer/Dockerfile
+.devcontainer/reinstall-cmake.sh
+.devcontainer/devcontainer.json
+
+# Ignore file in the .github folder
+.github/dependabot.yml
+
