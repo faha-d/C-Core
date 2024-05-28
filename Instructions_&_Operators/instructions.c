@@ -59,6 +59,9 @@ int main()
     // 1) Sequence Control (Programs runs in sequence)
     // 2) Decision Control (Based on decisions example: if() else{})
     // 3) Loop Control (Runs on a loop for a time)
-    // 4) Case Loop (Based on cases)
+    // 4) Case Control (Based on cases)
+
+    int pizzaPrice = 450, burgerPrice = 350, sandwichPrice = 400 ;
+    printf("Please give your order \n");
     return 0;
 }
