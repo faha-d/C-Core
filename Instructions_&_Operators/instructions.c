@@ -55,5 +55,13 @@ int main()
     printf("%d\n", 5 * (2 / 2) * 3); // Parentheses first, then multiplication
     printf("%d\n", 5 + 2 / 2 * 3);   // Division first, then multiplication, then addition
 
+    // Control Instructions:
+    // 1) Sequence Control (Programs runs in sequence)
+    // 2) Decision Control (Based on decisions example: if() else{})
+    // 3) Loop Control (Runs on a loop for a time)
+    // 4) Case Control (Based on cases)
+
+    int pizzaPrice = 450, burgerPrice = 350, sandwichPrice = 400 ;
+    printf("Please give your order \n");
     return 0;
 }
